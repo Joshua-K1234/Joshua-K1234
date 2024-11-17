@@ -1,3 +1,6 @@
+# 🌟 About Me
+
+
 # 🌟 My Data Projects
 
 ### 1️⃣ **Insights into data careers (Power BI)**  

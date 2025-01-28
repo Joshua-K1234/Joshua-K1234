@@ -15,7 +15,7 @@ Welcome to my portfolio, where I showcase my projects.
 ### 1. **End-to-End ETL Pipeline with Web Interface**
 - Built an ETL pipeline using **Google Cloud** and automated infrastructure with **Terraform**.  
 - Developed a web interface for data interaction and visualized results in **Looker Studio**.
-- [GitHub Repo](https://github.com/your-username/your-repo-name)
+- [GitHub Repo](https://github.com/Joshua-K1234/sales-end-to-end-project)
 
 ## 🛠️ Tools
 - Language: SQL, Python

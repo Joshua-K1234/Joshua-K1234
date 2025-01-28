@@ -20,7 +20,7 @@ Welcome to my portfolio, where I showcase my projects.
 ### 2. **Sales Data Analysis Dashboard**  
 - Analyzed sales data using **Tableau**, visualizing key metrics like sales trends and customer behavior.  
 - Identified patterns and provided actionable insights and recommendations.  
-- [GitHub Repo](https://github.com/your-username/your-repo-name) 
+- [GitHub Repo](https://github.com/Joshua-K1234/Costco-Sales-Performance-Analysis) 
 
 ## 🛠️ Tools
 - Language: SQL, Python

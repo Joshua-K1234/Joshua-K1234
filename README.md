@@ -9,7 +9,7 @@ I specialise in:
 - ⚙️ Data Engineering: Skilled in cloud platforms like Google Cloud Platform, creating ETL pipelinesl
 - 🚀 Always exploring new tools and techniques to improve workflows and deliver innovative solutions.
 
-## Projects
+## Projects 
 Welcome to my portfolio, where I showcase my projects.
 
 ### 1. **End-to-End ETL Pipeline with Web Interface**

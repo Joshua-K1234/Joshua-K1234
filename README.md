@@ -1,6 +1,6 @@
 # Introducing Myself
 
-Hi 👋 I am Joshua, I'm a computer science graduate. I enjoy turning raw data into actionable insights and building robust pipelines that make data accessible and efficient for analysis.
+Hi 👋 I am Joshua. I enjoy turning raw data into actionable insights and building robust pipelines that make data accessible and efficient for analysis.
 
 ## What I do?
 I specialise in:

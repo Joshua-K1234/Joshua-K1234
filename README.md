@@ -12,6 +12,3 @@ I specialise in:
 - Language: SQL, Python, Excel
 - Database: Google Bigquery, MySQL
 - Visualization: Tableau, Power Bi, DataWrapper
-
-## Other Interests
-I like in my free time to learn about Data Engineering I enjoy using cloud platforms such as Google Cloud Platform to create ETL pipelines. Giving me a broader understanding of the data process as a whole.
